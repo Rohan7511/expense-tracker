@@ -37,7 +37,7 @@ A clean, offline-first expense tracking app built with Flutter and Material 3. A
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/Rohan7511/expense-tracker
 cd expense_tracker
 
 # Install dependencies
